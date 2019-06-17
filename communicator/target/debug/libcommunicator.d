@@ -1,0 +1,1 @@
+/Users/bradleyhoffman/Desktop/Rust/projects/communicator/target/debug/libcommunicator.rlib: /Users/bradleyhoffman/Desktop/Rust/projects/communicator/src/client.rs /Users/bradleyhoffman/Desktop/Rust/projects/communicator/src/lib.rs /Users/bradleyhoffman/Desktop/Rust/projects/communicator/src/network.rs
